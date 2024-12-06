@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTpsRq2sY6M=",
+  "success": true,
+  "projectFilePath": "/Users/vladyslav/Documents/code/c#/CoolManager/CoolManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladyslav/.nuget/packages/colorhelper/1.8.1/colorhelper.1.8.1.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/system.io.abstractions/21.0.22/system.io.abstractions.21.0.22.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/terminal.gui/2.0.0-v2-develop.2329/terminal.gui.2.0.0-v2-develop.2329.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/testableio.system.io.abstractions/21.0.22/testableio.system.io.abstractions.21.0.22.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/testableio.system.io.abstractions.wrappers/21.0.22/testableio.system.io.abstractions.wrappers.21.0.22.nupkg.sha512",
+    "/Users/vladyslav/.nuget/packages/wcwidth/2.0.0/wcwidth.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
